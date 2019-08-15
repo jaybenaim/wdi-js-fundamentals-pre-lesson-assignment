@@ -1,0 +1,19 @@
+{
+  "name": "wdi-js-fundamentals-pre-lesson-assignment",
+  "version": "1.0.0",
+  "description": "[See assignment in Alexa.](https://alexa.bitmaker.co/wdi/67/assignments/2048/latest)",
+  "main": "pacman-console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaybenaim/wdi-js-fundamentals-pre-lesson-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaybenaim/wdi-js-fundamentals-pre-lesson-assignment/issues"
+  },
+  "homepage": "https://github.com/jaybenaim/wdi-js-fundamentals-pre-lesson-assignment#readme"
+}
